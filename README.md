@@ -5,4 +5,4 @@ Una sencilla aplicación de consola que sirve para seleccionar una fila aleatori
 Recibe un fichero CSV como argumento, por ejemplo uno que contenga nombres de alumnos, lanza la "ruleta de la suerte"... y muestra al alumno seleccionado.
 
 ## Uso
-$> .\Student_Random <file>
+$> .\Student_Random fichero.csv
