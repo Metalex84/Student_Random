@@ -1,0 +1,15 @@
+C:\Users\agonz\Source\Repos\Student_Random\bin\Release\net8.0\Student_Random.exe
+C:\Users\agonz\Source\Repos\Student_Random\bin\Release\net8.0\Student_Random.deps.json
+C:\Users\agonz\Source\Repos\Student_Random\bin\Release\net8.0\Student_Random.runtimeconfig.json
+C:\Users\agonz\Source\Repos\Student_Random\bin\Release\net8.0\Student_Random.dll
+C:\Users\agonz\Source\Repos\Student_Random\bin\Release\net8.0\Student_Random.pdb
+C:\Users\agonz\Source\Repos\Student_Random\obj\Release\net8.0\Student_Random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agonz\Source\Repos\Student_Random\obj\Release\net8.0\Student_Random.AssemblyInfoInputs.cache
+C:\Users\agonz\Source\Repos\Student_Random\obj\Release\net8.0\Student_Random.AssemblyInfo.cs
+C:\Users\agonz\Source\Repos\Student_Random\obj\Release\net8.0\Student_Random.csproj.CoreCompileInputs.cache
+C:\Users\agonz\Source\Repos\Student_Random\obj\Release\net8.0\Student_Random.sourcelink.json
+C:\Users\agonz\Source\Repos\Student_Random\obj\Release\net8.0\Student_Random.dll
+C:\Users\agonz\Source\Repos\Student_Random\obj\Release\net8.0\refint\Student_Random.dll
+C:\Users\agonz\Source\Repos\Student_Random\obj\Release\net8.0\Student_Random.pdb
+C:\Users\agonz\Source\Repos\Student_Random\obj\Release\net8.0\Student_Random.genruntimeconfig.cache
+C:\Users\agonz\Source\Repos\Student_Random\obj\Release\net8.0\ref\Student_Random.dll

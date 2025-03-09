@@ -1,0 +1,5 @@
+C:\Users\agonz\OneDrive\TRABAJO\LINKIA\Student_Random.exe
+C:\Users\agonz\OneDrive\TRABAJO\LINKIA\Student_Random.dll
+C:\Users\agonz\OneDrive\TRABAJO\LINKIA\Student_Random.deps.json
+C:\Users\agonz\OneDrive\TRABAJO\LINKIA\Student_Random.runtimeconfig.json
+C:\Users\agonz\OneDrive\TRABAJO\LINKIA\Student_Random.pdb

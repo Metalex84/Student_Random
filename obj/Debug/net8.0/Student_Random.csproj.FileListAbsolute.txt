@@ -12,3 +12,4 @@ C:\Users\agonz\source\repos\Student_Random\obj\Debug\net8.0\refint\Student_Rando
 C:\Users\agonz\source\repos\Student_Random\obj\Debug\net8.0\Student_Random.pdb
 C:\Users\agonz\source\repos\Student_Random\obj\Debug\net8.0\Student_Random.genruntimeconfig.cache
 C:\Users\agonz\source\repos\Student_Random\obj\Debug\net8.0\ref\Student_Random.dll
+C:\Users\agonz\Source\Repos\Student_Random\obj\Debug\net8.0\Student_Random.sourcelink.json
