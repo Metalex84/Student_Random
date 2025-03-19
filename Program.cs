@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Reflection;
 
-string appName = Assembly.GetEntryAssembly().Location;
+string appName = Path.GetFileNameWithoutExtension(Assembly.GetEntryAssembly().Location);
 
 if (args.Length != 1)
 {
@@ -26,20 +26,17 @@ try
     }
 
     Random random = new Random();
-    int chosenIndex = random.Next(lines.Count);
-    string chosenLine = lines[chosenIndex];
 
     int delay = 5;
     for (int i = 0; i < lines.Count; i++)
     {
         int randomIndex = random.Next(lines.Count);
         Console.Clear();
-        Console.WriteLine(lines[randomIndex]);
+        Console.WriteLine($"*** SELECTOR ALEATORIO DE ALUMNOS ***\nEl alumno elegido es:\t{lines[randomIndex]}");
         Thread.Sleep(delay);
         delay += 8;
     }
 
-    Console.WriteLine("El elegido es... " + chosenLine);
     pressExit();
 
 }

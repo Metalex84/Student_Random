@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\agonz\\Source\\Repos\\Student_Random\\Student_Random.csproj": {}
+    "C:\\Users\\Alejandro\\source\\repos\\Metalex84\\Student_Random\\Student_Random.csproj": {}
   },
   "projects": {
-    "C:\\Users\\agonz\\Source\\Repos\\Student_Random\\Student_Random.csproj": {
+    "C:\\Users\\Alejandro\\source\\repos\\Metalex84\\Student_Random\\Student_Random.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\agonz\\Source\\Repos\\Student_Random\\Student_Random.csproj",
+        "projectUniqueName": "C:\\Users\\Alejandro\\source\\repos\\Metalex84\\Student_Random\\Student_Random.csproj",
         "projectName": "Student_Random",
-        "projectPath": "C:\\Users\\agonz\\Source\\Repos\\Student_Random\\Student_Random.csproj",
-        "packagesPath": "C:\\Users\\agonz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\agonz\\Source\\Repos\\Student_Random\\obj\\",
+        "projectPath": "C:\\Users\\Alejandro\\source\\repos\\Metalex84\\Student_Random\\Student_Random.csproj",
+        "packagesPath": "C:\\Users\\Alejandro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alejandro\\source\\repos\\Metalex84\\Student_Random\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\agonz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Alejandro\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
